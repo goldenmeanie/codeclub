@@ -1,0 +1,29 @@
+html {
+	background: #666666;
+}
+.bigbox {
+	background: #ffffff;
+	margin: 20px auto 60px;
+	width: 80%;
+}
+.header {
+	background: #ff9900;
+	color: #ffffff;
+	padding: 30px;
+}
+.nav {
+	background: #ffcc00;
+	padding: 10px 30px;
+}
+.nav a {
+	margin-right: 30px;
+}
+.content {
+	padding: 30px;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: #ff3300;
+}
